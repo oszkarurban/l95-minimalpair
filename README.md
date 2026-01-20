@@ -1,6 +1,6 @@
 # Hungarian Minimal Pair Dataset
 
-The `hungarian_negation_preverb_minimal_pair.csv` contains a dataset of minimal pairs designed to evaluate the negatiin induced inversion of preverbs phenomena in Hungarian.
+The `hungarian_negation_preverb_minimal_pair.csv` contains a dataset of minimal pairs designed to evaluate the negation induced inversion of preverbs phenomena in Hungarian.
 
 The code for the analysis of results for the submitted report can be found in L95_code.ipynb
 
@@ -9,10 +9,10 @@ The code for the analysis of results for the submitted report can be found in L9
 ## Experiment Types
 The dataset is categorized into four distinct experiment types, each testing the robustness of the inversion rule under increasing syntactic conditions:
 
-1. **Bare**: The fundamental contrast between grammatical and ungrammatical negation.
-2. **Context**: Minimal pairs within a sentence to provide natural language grounding.
-3. **Intervener**: Tests whether an adverbial element placed between the negation marker and the preverb-verb construction affects the inversion.
-4. **Intervener 2**: A expansion of Intervener using a second adverbial intervener.
+1. **Bare**: The grammatical and ungrammatical examples in isolation.
+2. **Context**: The grammatical and ungrammatical examples within a sentence to provide natural language grounding.
+3. **Intervener**: Tests whether an adverbial intervener placed between the negation marker and the preverb-verb construction affects the inversion.
+4. **Intervener 2**: An expansion of Intervener using a second adverbial intervener.
 
 ---
 
